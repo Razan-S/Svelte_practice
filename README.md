@@ -1,1 +1,1 @@
-# Hello, Welcome to my svelte skill proogression
+# Hello, Welcome to my svelte skill progression
